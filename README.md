@@ -11,6 +11,9 @@
 
 * pip install -r setup.txt
 * python .\ThDanh\clock_timer\main.py
+
+### Screen shot:
+![Unitest-TDD](https://github.com/ThanhDanh-1999/Clock_Timer_with_Python_Tkinter_GUI/blob/main/images/image_capture.png)
  
  *-----GOOD LUCK-----*
 
